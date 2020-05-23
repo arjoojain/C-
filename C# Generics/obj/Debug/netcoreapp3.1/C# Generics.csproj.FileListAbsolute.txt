@@ -1,0 +1,13 @@
+D:\PersonalStuffs\C-\C# Generics\bin\Debug\netcoreapp3.1\C# Generics.exe
+D:\PersonalStuffs\C-\C# Generics\bin\Debug\netcoreapp3.1\C# Generics.deps.json
+D:\PersonalStuffs\C-\C# Generics\bin\Debug\netcoreapp3.1\C# Generics.runtimeconfig.json
+D:\PersonalStuffs\C-\C# Generics\bin\Debug\netcoreapp3.1\C# Generics.runtimeconfig.dev.json
+D:\PersonalStuffs\C-\C# Generics\bin\Debug\netcoreapp3.1\C# Generics.dll
+D:\PersonalStuffs\C-\C# Generics\bin\Debug\netcoreapp3.1\C# Generics.pdb
+D:\PersonalStuffs\C-\C# Generics\obj\Debug\netcoreapp3.1\C# Generics.csprojAssemblyReference.cache
+D:\PersonalStuffs\C-\C# Generics\obj\Debug\netcoreapp3.1\C# Generics.AssemblyInfoInputs.cache
+D:\PersonalStuffs\C-\C# Generics\obj\Debug\netcoreapp3.1\C# Generics.AssemblyInfo.cs
+D:\PersonalStuffs\C-\C# Generics\obj\Debug\netcoreapp3.1\C# Generics.csproj.CoreCompileInputs.cache
+D:\PersonalStuffs\C-\C# Generics\obj\Debug\netcoreapp3.1\C# Generics.dll
+D:\PersonalStuffs\C-\C# Generics\obj\Debug\netcoreapp3.1\C# Generics.pdb
+D:\PersonalStuffs\C-\C# Generics\obj\Debug\netcoreapp3.1\C# Generics.genruntimeconfig.cache
